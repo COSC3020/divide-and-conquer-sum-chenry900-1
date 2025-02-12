@@ -28,6 +28,7 @@ most important part. Add your answer to this markdown file.
 
 The code calls a recurrece that devides the array into 3 parts giving you 3T(n/3)
 then adds it all together to give you n. when simplified it you get O(n).
+The recurrence relation is 3T(n/3) + n.
 
 
 
