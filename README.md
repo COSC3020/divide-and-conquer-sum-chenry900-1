@@ -26,6 +26,10 @@ and solve it as we did in the lectures. Give the final $\Theta$ complexity.
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. Add your answer to this markdown file.
 
+The code calls a recurrece that devides the array into 3 parts giving you 3T(n/3)
+then adds it all together to give you n. when simplified it you get O(n).
+
+
 
 
 code used from my last semester work.
